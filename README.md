@@ -2,9 +2,7 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="150" src="https://i.pinimg.com/originals/f0/9e/07/f09e075d57529f9ea756762f3218e8db.gif"  />
+<img align="right" height="200" src="https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gifv"  />
 
 ###
 
@@ -41,11 +39,5 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/BahaAouiti/BahaAouiti/output/snake.svg" alt="Snake animation" />
 
 ###
